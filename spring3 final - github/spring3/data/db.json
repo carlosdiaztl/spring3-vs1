@@ -1,0 +1,225 @@
+{
+   "arriendos":[
+    {    
+        "id":"0",
+        "type":"apto",
+        "location":"aryzona",
+        "price":"2000",
+        "space":"120 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/OIP.hBg748J-WJOngnH82EYLRwHaE8?pid=ImgDet&rs=1",
+        "status":"for sale"
+
+    },
+    {    
+        "id":"1",
+        "type":"apto",
+        "location":"california",
+        "price":"2000",
+        "space":"120 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/OIP.7jW2qnPxXfqMsW2cz90YYwHaEI?w=274&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "status":"for sale"
+
+
+    },
+    {
+        "id":"2",
+        "type":"apto",
+        "location":"new york",
+        "price":"2500",
+        "space":"100 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/OIP.v-mJFkIf8UaDSq-wB32FsAHaEM?pid=ImgDet&rs=1",
+        "status":"for sale"
+
+    },
+    {
+        "id":"3",
+        "type":"apto",
+        "location":"miami",
+        "price":"1800",
+        "space":"80 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/OIP.LYYddKvus9PyNo-vEeBrRQHaE7?pid=ImgDet&rs=1",
+        "status":"for sale"
+
+    },
+    {
+        "id":"4",
+        "type":"apto",
+        "location":"nevada",
+        "price":"1200",
+        "space":"80 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/OIP.lM33F6JCdJFvl5i-r9ntYQHaE7?pid=ImgDet&rs=1",
+        "status":"for sale"
+
+    },
+    {
+        "id":"5",
+        "type":"apto",
+        "location":"aryzona",
+        "price":"1500",
+        "space":"50 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/R.5e2324305be4cef039c8ac486c860e47?rik=7BERUO8CtTLcng&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    },
+    {
+        "id":"6",
+        "type":"apto",
+        "location":"california",
+        "price":"2800",
+        "space":"180 mts",
+        "park":"no",
+        "image":"https://y.cdrst.com/foto/hotel-sf/4bd5/medianaresp/apartamentos-california-habitacion-ad11bad.jpg",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"8", 
+        "type":"apto",
+        "location":"new york",
+        "price":"2200",
+        "space":"80 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/R.5c801e8d83ecd70fc33c2da9cb9ff10e?rik=cF%2bfiyFcxcKG%2bg&riu=http%3a%2f%2fe00-telva.uecdn.es%2fassets%2fmultimedia%2fimagenes%2f2017%2f10%2f24%2f15088391969610.jpg&ehk=rPtWkPpX1TJ8bbA%2bq%2b8V48sh%2b%2bPHd7DfO9UyO3HlO5E%3d&risl=&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"9", 
+        "type":"apto",
+        "location":"miami",
+        "price":"2500",
+        "space":"150 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/OIP.He-qSk2wDhlnhRNG4xGLLgHaEF?pid=ImgDet&rs=1",
+        "status":"for sale"
+        
+    },
+    {   
+        "id":"10", 
+        "type":"apto",
+        "location":"nevada",
+        "price":"1500",
+        "space":"80 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/OIP.vgK5yJfUUvEzCV5SAbddAgHaE7?pid=ImgDet&rs=1",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"11", 
+        "type":"house",
+        "location":"miami",
+        "price":"2800",
+        "space":"150 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/R.bf76879517e2f82c8980db0b46c7875a?rik=LUoCnGf%2bryNyDQ&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"12", 
+        "type":"house",
+        "location":"miami",
+        "price":"3800",
+        "space":"250 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/R.1716386fdd873b84c9c90e40710639bd?rik=dBIbzF00wDrV2w&riu=http%3a%2f%2fwww.hauteresidence.com%2fwp-content%2fuploads%2f2015%2f05%2fShakira.jpg&ehk=OQSV5vn%2ffaKLUsODzHljV%2bE%2bf3P%2fy0ukbkBNxRvRDac%3d&risl=&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"13", 
+        "type":"house",
+        "location":"aryzona",
+        "price":"1800",
+        "space":"80 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/R.68181a337c3ceab392ef5f3dbb0c0687?rik=f%2f5Tc%2bz3UUCRnQ&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"14", 
+        "type":"house",
+        "location":"aryzona",
+        "price":"2500",
+        "space":"120 mts",
+        "park":"yes",
+        "image":"https://www.pufikhomes.com/wp-content/uploads/2018/01/velikolepnyi-dom-v-arizone-pufikhomes-0a.jpg",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"15", 
+        "type":"house",
+        "location":"california",
+        "price":"2200",
+        "space":"130 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/OIP.3kWmcgsAwJFLLmHYTcQwJgHaEK?pid=ImgDet&rs=1",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"16", 
+        "type":"house",
+        "location":"california",
+        "price":"2300",
+        "space":"150 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/R.307688ead90ae6ad5900c53749b4b3e6?rik=V4Dae5xpR7uvew&riu=http%3a%2f%2fww1.prweb.com%2fprfiles%2f2010%2f04%2f02%2f1117184%2fWLHSDPasadoPlan1Ext.jpg&ehk=iiR%2f4jqh1rmEmqVLwuP63D0EW%2f9wmj8JASX8qvq7xv4%3d&risl=&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"17", 
+        "type":"house",
+        "location":"nevada",
+        "price":"1800",
+        "space":"100 mts",
+        "park":"yes",
+        "image":"https://th.bing.com/th/id/OIP.hFwzP5XAjl5wegUxrBIVMQHaE7?pid=ImgDet&rs=1",
+        "status":"for sale"
+
+    },{   
+        "id":"18", 
+        "type":"house",
+        "location":"nevada",
+        "price":"2850",
+        "space":"150 mts",
+        "park":"no",
+        "image":"https://s-static.cinccdn.com/images/uploads/UPF6D1588C1D094D.jpg",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"19", 
+        "type":"house",
+        "location":"new york",
+        "price":"1900",
+        "space":"80 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/R.31b129c861a53b51f465dd2b786fc684?rik=Y5MEYIX%2fO21bNg&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    },
+    {   
+        "id":"20", 
+        "type":"house",
+        "location":"new york",
+        "price":"2400",
+        "space":"80 mts",
+        "park":"no",
+        "image":"https://th.bing.com/th/id/R.50d73be46c438a6b444b3b8657ae0dbd?rik=yk0qA7VelM0jbw&riu=http%3a%2f%2fmedia.point2.com%2fp2h%2flisting%2f47a0%2f3b9b%2feac2%2f81abc3c974524028adba%2fwm_full.jpg&ehk=%2fz3EkV%2b5DxXXhIw6ikzjEpMKZkk84a3r4sk1b0pnVf0%3d&risl=&pid=ImgRaw&r=0",
+        "status":"for sale"
+
+    }
+
+   ]
+}
